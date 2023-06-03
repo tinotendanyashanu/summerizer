@@ -3,7 +3,7 @@ import { facebook, github, site, instagram } from "../assets";
 const Footer = () => {
   return (
     <div className="w-full flex justify-between  mt-10 ">
-      <h3 className="items-center ">©2023 Tinotenda Nyashanu</h3>
+      <h3 className="items-center ">©2023 DigitalGeeks</h3>
       <div className=" flex justify-between  " style={{ gap: "10px" }}>
         <a href="https://www.facebook.com/DigitalGeeksz" target="_blank">
           <img
