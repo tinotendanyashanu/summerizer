@@ -13,13 +13,16 @@ const Hero = () => {
         </button>
       </nav>
       <h1 className="head_text">
-        Summarize content with <br className="max-md:hidden" />{" "}
+        Summarize Content With <br className="max-md:hidden" />{" "}
         <span className="orange_gradient">DigitalGeeks</span>{" "}
       </h1>
 
       <h2 className="desc">
-        This is An AI Free AI tool by DigitalGeeks you can use this tool to
-        reduce your time of reading unnecessary things{" "}
+        This AI-powered tool, developed by DigitalGeeks, is designed to save you
+        valuable time by efficiently filtering out irrelevant information,
+        allowing you to focus on what truly matters. With this tool, you can
+        significantly reduce the time spent on reading unnecessary content and
+        streamline your information consumption process.{" "}
       </h2>
     </header>
   );
