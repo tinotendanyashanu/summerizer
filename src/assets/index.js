@@ -3,10 +3,11 @@ import loader from "./loader.svg";
 import copy from "./copy.svg";
 import logo from "./logo.png";
 import tick from "./tick.svg";
-import facebook from "./facebook.png";
-import instagram from "./instagram.png";
-import github from "./github.png";
 import site from "./site.png";
+import facebook from "./facebook.svg";
+import instagram from "./instagram.svg";
+import linkedin from "./linkedin.svg";
+import twitter from "./twitter.svg";
 
 export {
   linkIcon,
@@ -16,6 +17,7 @@ export {
   tick,
   facebook,
   instagram,
-  github,
   site,
+  linkedin,
+  twitter,
 };
